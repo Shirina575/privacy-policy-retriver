@@ -130,6 +130,9 @@ venv.bak/
 
 # Directory
 cache/
+
+# File
+content.txt
 # Spyder project settings
 .spyderproject
 .spyproject
